@@ -4,13 +4,18 @@ Developer, student and maker. I build side projects around smart homes, reverse 
 
 🇮🇹 [Versione italiana più sotto](#-ciao-sono-davide)
 
-## 🔧 Featured project
+## 🔧 Featured projects
 
 **[homebridge-fake-homekey](https://github.com/DavideFarina2010/homebridge-fake-homekey)**
 [![npm](https://img.shields.io/npm/v/homebridge-fake-homekey)](https://www.npmjs.com/package/homebridge-fake-homekey)
 [![verified-by-homebridge](https://img.shields.io/badge/homebridge-verified-blueviolet?color=%23491F59&style=flat)](https://github.com/homebridge/homebridge/wiki/Verified-Plugins)
 
 A Homebridge plugin that exposes a fake lock with the HomeKit **NFC Access** service, so the Home app can add an Apple Home Key to Wallet with no lock and no NFC reader. Built from a reverse-engineered protocol, tested on a real iPhone, and verified by the Homebridge team.
+
+**[homebridge-mac-wakeonlan](https://github.com/DavideFarina2010/homebridge-mac-wakeonlan)**
+[![npm](https://img.shields.io/npm/v/homebridge-mac-wakeonlan)](https://www.npmjs.com/package/homebridge-mac-wakeonlan)
+
+A Homebridge plugin that wakes your Macs over Wi-Fi or Ethernet with Wake-on-LAN, exposed as switches in Apple Home.
 
 ## 🧰 Tech
 
@@ -43,11 +48,15 @@ A Homebridge plugin that exposes a fake lock with the HomeKit **NFC Access** ser
 
 Sviluppatore, studente e maker. Realizzo progetti personali su smart home, reverse engineering e software B2B SaaS, e mi piace pubblicare ciò che faccio come open source.
 
-### 🔧 Progetto in evidenza
+### 🔧 Progetti in evidenza
 
 **[homebridge-fake-homekey](https://github.com/DavideFarina2010/homebridge-fake-homekey)**
 
 Un plugin Homebridge che espone una serratura finta con il servizio HomeKit **NFC Access**, così l'app Casa può aggiungere una Home Key Apple al Wallet senza serratura né lettore NFC. Nato da un protocollo ricostruito con il reverse engineering, testato su un iPhone reale e verificato dal team Homebridge.
+
+**[homebridge-mac-wakeonlan](https://github.com/DavideFarina2010/homebridge-mac-wakeonlan)**
+
+Un plugin Homebridge che sveglia i tuoi Mac in rete (Wi-Fi o Ethernet) con Wake-on-LAN, esposti come interruttori in Apple Home.
 
 ### 🧰 Tecnologie
 
